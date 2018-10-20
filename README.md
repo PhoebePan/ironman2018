@@ -1,4 +1,4 @@
-﻿# ironman2018
+﻿# 幸運點滿的澳洲前端工程師系列
 [Day 1 - 為什麼來澳洲?](https://github.com/PhoebePan/ironman2018/issues/1)  
 [Day 2 - 度假打工簽可以當全職工程師嗎？](https://github.com/PhoebePan/ironman2018/issues/2)  
 [Day 3 - 給自己找工作的預期心理與停損點](https://github.com/PhoebePan/ironman2018/issues/3)  
