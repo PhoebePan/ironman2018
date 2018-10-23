@@ -5,3 +5,5 @@
 [Day 4 - 如何建立澳洲適用的英文履歷？求職必備技能！](https://github.com/PhoebePan/ironman2018/issues/4)  
 [Day 5 - 找工作過程與面試訣竅](https://github.com/PhoebePan/ironman2018/issues/5)  
 [Day 6 - 澳洲工程師的薪水與生活](https://github.com/PhoebePan/ironman2018/issues/6)  
+[Day 7 - 澳洲的軟體產業](https://github.com/PhoebePan/ironman2018/issues/7)  
+[Day 8 - 揭秘軟體開發團隊工作日常（一）](https://github.com/PhoebePan/ironman2018/issues/8)  
