@@ -11,3 +11,4 @@
 [Day 10 - 公司用什麼前端框架？](https://github.com/PhoebePan/ironman2018/issues/10)  
 [Day 11 - 公司用什麼 IDE?](https://github.com/PhoebePan/ironman2018/issues/11)   
 [Day 12 - 與後端工程師合作日常](https://github.com/PhoebePan/ironman2018/issues/12)   
+[Day 13 - 聊聊在台灣的經歷](https://github.com/PhoebePan/ironman2018/issues/13)  
