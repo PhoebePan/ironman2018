@@ -12,3 +12,4 @@
 [Day 11 - 公司用什麼 IDE?](https://github.com/PhoebePan/ironman2018/issues/11)   
 [Day 12 - 與後端工程師合作日常](https://github.com/PhoebePan/ironman2018/issues/12)   
 [Day 13 - 聊聊在台灣的經歷](https://github.com/PhoebePan/ironman2018/issues/13)  
+[Day 14 - 來澳洲工作最大的變化是什麼?](https://github.com/PhoebePan/ironman2018/issues/14)  
