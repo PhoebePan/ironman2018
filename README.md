@@ -14,3 +14,5 @@
 [Day 13 - 聊聊在台灣的經歷](https://github.com/PhoebePan/ironman2018/issues/13)  
 [Day 14 - 來澳洲工作最大的變化是什麼?](https://github.com/PhoebePan/ironman2018/issues/14)  
 [Day 15 - 在澳洲要繳多少稅呢？](https://github.com/PhoebePan/ironman2018/issues/15)  
+[Day 16 - 雪梨的物價 如何判斷合理價錢？](https://github.com/PhoebePan/ironman2018/issues/16)  
+[Day 17 - 帶著家人去旅行，雪梨五天四夜自由行攻略](https://github.com/PhoebePan/ironman2018/issues/17)  
